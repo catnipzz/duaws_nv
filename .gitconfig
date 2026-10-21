@@ -1,0 +1,9 @@
+[user]
+	name = manhnth
+	email = n.t.manh@viscirclevn.com
+[core]
+	autocrlf = false
+[windows]
+	appendAtomically = false
+[credential "helperselector"]
+	selected = manager
